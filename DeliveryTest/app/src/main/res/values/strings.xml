@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Delivery Test</string>
+
+    <string name="things_to_deliver">Things to Deliver</string>
+    <string name="delivery_details">Delivery Details</string>
+
+    <string name="err_network_title">Network problem</string>
+    <string name="err_network_msg">Internet error, please check your connection and try again.</string>
+    <string name="settings">Settings</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_delivery_detail">Map</string>
+
+</resources>
